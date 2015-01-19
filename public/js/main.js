@@ -31,6 +31,9 @@
 		
 	});
 
+	$.mobile.page.prototype.options.theme = "b";
+
+
 
     
 
