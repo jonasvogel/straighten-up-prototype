@@ -22,7 +22,7 @@
 
 		    	// change the page when clicking the posture voodoo
 			    $selector.click(function() {
-			    	$.mobile.pageContainer.pagecontainer( "change", $selector.data().target );
+			    	$.mobile.pageContainer.pagecontainer( "change", $selector.data().target, { "transition": "none" } );
 			    });
 
 		    }
