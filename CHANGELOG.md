@@ -1,6 +1,10 @@
 CHANGELOG
 =========
 
+## 0.1.0
+
+- Added content for page "extras".
+
 
 ## 0.0.2
 
